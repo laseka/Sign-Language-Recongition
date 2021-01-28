@@ -33,8 +33,8 @@ Mimo kilku prób z różnymi bazami danych i sieciami dalej nasz program radzi s
 
 ![alt text](./Images/training_set.png)
 
-## Contributors
+## Członkowie zespołu
 
 - Marcin Filipek - Team Leader
 - Michał Ćwierz
-- Agnieszka Laser
+- Agnieszka Lasek
