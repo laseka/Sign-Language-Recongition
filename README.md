@@ -1,5 +1,5 @@
 ## Rozponawanie amerykańskiego języka migowego
-
+Krótki opis projektu
 
 # Cel
 
@@ -7,13 +7,20 @@ Identyfikacja liter alfabetu amerykańskiego języka migowego na podstawie obraz
 
 # Wymagania
 
-- Python3.x (przetestowane na Python3.7.7)
+- Python3.x (przetestowane na Python3.7.7)]
 
+- kamera komputerowa
+
+# Instalacja i używanie
+
+Zainstalwoanie niezbędnych bibliotek
 - pip install -r requirements.txt
 
-# Użycie
+Uruchamianie głównego programu:
+- python3 main.py
 
-- python main.py {desired command}
+Możliwe jest wytrenowanie własnej sieci neuronowej. W tym celu należy zmodyfikować i uruchomić:
+- python3 network_training.py
 
 Alfabet amerykańskiego języka migowego
 
@@ -21,20 +28,17 @@ Alfabet amerykańskiego języka migowego
 
 # Obecna funkcjonalność
 
-Mimo kilku prób z różnymi bazami danych i sieciami dalej nasz program radzi sobie z indentyfikowaniem tylko pewnej części liter.
+Program rozpoznaje część charakterystycznych liter. Z rozpoznaniem liter o subtelnych różnicach nadal ma problem.
 
 ![alt text](./Images/examples.png)
 
-# Przyczyny niedoskonałości naszej aplikacji
+# Przyczyny niedoskonałości aplikacji
 
-- Trudne trudne
-
-# Sieć neuronowa
-
-![alt text](./Images/training_set.png)
+- Mały rozmiar wejściowy dancyh do sieci (28 x 28)
+- Mały zbiór danych trningowych
 
 ## Członkowie zespołu
 
-- Marcin Filipek - Team Leader
-- Michał Ćwierz
-- Agnieszka Lasek
+- Marcin Filipek - Algorytm
+- Michał Ćwierz - Interfejs
+- Agnieszka Lasek - Dokumentacja
