@@ -17,13 +17,13 @@ Identyfikacja liter alfabetu amerykańskiego języka migowego na podstawie obraz
 
 Alfabet amerykańskiego języka migowego
 
-![alt text](.Images/signs.png)
+![alt text](./Images/signs.png)
 
 # Obecna funkcjonalność
 
 Mimo kilku prób z różnymi bazami danych i sieciami dalej nasz program radzi sobie z indentyfikowaniem tylko pewnej części liter.
 
-![alt text](.Images/examples.png)
+![alt text](./Images/examples.png)
 
 # Przyczyny niedoskonałości naszej aplikacji
 
@@ -31,7 +31,7 @@ Mimo kilku prób z różnymi bazami danych i sieciami dalej nasz program radzi s
 
 # Sieć neuronowa
 
-![alt text](.Images/training_set.png)
+![alt text](./Images/training_set.png)
 
 ## Contributors
 
