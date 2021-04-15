@@ -1,5 +1,5 @@
 ## Rozponawanie amerykańskiego języka migowego
-Krótki opis projektu
+Projekt został zrealizowany w ramach przedmiotu Analiza Obrazów.
 
 # Cel
 
